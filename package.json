@@ -1,0 +1,24 @@
+{
+  "name": "pfgetset",
+  "version": "0.0.1",
+  "description": "Very simple get set for socket.io",
+  "main": "pfgetset.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pjdf974/pfgetset.git"
+  },
+  "keywords": [
+    "get",
+    "set",
+    "socket.io"
+  ],
+  "author": "pjdf974",
+  "license": "At your own risk.",
+  "bugs": {
+    "url": "https://github.com/pjdf974/pfgetset/issues"
+  },
+  "homepage": "https://github.com/pjdf974/pfgetset"
+}
